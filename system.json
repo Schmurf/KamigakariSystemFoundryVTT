@@ -1,0 +1,22 @@
+{
+    "name": "kamigakari",
+    "title": "Kamigakari RPG",
+    "description": "Private test for Kamigakari system",
+    "version": "0.1.1",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "templateVersion": 2,
+    "author": "Schmurf",
+    "languages": [
+      {"lang": "en", "name": "English", "path": "lang/en.json"}
+],
+    "socket": false,
+    "gridDistance": 1,
+    "gridUnits": "sq",
+    "primaryTokenAttribute": "resources.health",
+    "secondaryTokenAttribute": null,
+    "url": "https://github.com/Schmurf/KamigakariSystemFoundryVTT/",
+    "manifest": "https://raw.githubusercontent.com/Schmurf/KamigakariSystemFoundryVTT/master/system.json",
+    "download": "https://github.com/Schmurf/KamigakariSystemFoundryVTT/archive/master.zip",
+    "license": "LICENSE.txt"
+  }
